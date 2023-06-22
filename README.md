@@ -7,3 +7,4 @@ Finally the report will tell you with ticker had the greates increase, the great
 You can analice as much years and tickers ash you have the information. You only have to paste the raw data in every worksheet columns A to G with the following order:
   A: Ticker, B: date, c: Open price, D: Highest price, E: Lowest prices, F: Closing price. G: Total Volume
 Remember it has to be only one year in every worksheet. 
+Consider that code source is located in the file "yearly Ticker performance.vbs"
